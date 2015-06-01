@@ -1,7 +1,9 @@
 /var
+!/var/.htaccess
+
 /media
+!/media/.htaccess
 /app/etc/local.xml
 
 /.idea
-
 
