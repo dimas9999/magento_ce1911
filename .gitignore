@@ -1,9 +1,15 @@
-/var
-!/var/.htaccess
+# IDE settings
+.project
+.metadata/
+.settings/
+.buildpath
+.classpath
+.idea/
+*.iml
+nbproject/
 
-/media
-!/media/.htaccess
-/app/etc/local.xml
-
-/.idea
-
+# Magento
+app/etc/local.xml
+media/*
+var/*
+google*.html
